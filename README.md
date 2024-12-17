@@ -1,2 +1,3 @@
 **Site is Published**
-gitrahul22.github.io/QRcode_generator/
+
+https://gitrahul22.github.io/QRcode_generator/
